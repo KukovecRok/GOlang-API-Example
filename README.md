@@ -1,4 +1,4 @@
-# GOlang API
+# GO-lang API example
 
 ## Use case example
 * Register on http://localhost:8000/api/v1/todo/login/register 
